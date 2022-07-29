@@ -4,8 +4,6 @@
 Eurostat: https://github.com/eurostat
 NLP4Stat https://github.com/eurostat/NLP4Stat
 
-Statistical Information System Collaboration Community (Community website https://siscc.org/). https://gitlab.com/sis-cc and https://sis-cc.gitlab.io/dotstatsuite-documentation/
-
 
 ## 🇫🇷 🍷 🧀 🐌
 INSEE France: https://github.com/INSEEfr 
