@@ -76,7 +76,20 @@ Stats Poland - EU Hackathon https://statisticspoland.github.io/EU_BD_Hackathon/
 ## 🇦🇹
 Unofficial Organization for Open Source Projects of Statistics Austria https://github.com/statistikat
 
+## 🇮🇪
+Central Statistic Office, Ireland https://github.com/CSOIreland
 
+## 🇨🇴
+Columbia, Departamento Administrativo Nacional de Estadística (DANE) https://github.com/dane-colombia
+
+## 🇱🇻
+Latvia, Central Statistical Bureau of Latvia https://github.com/CSBLatvia
+
+## 🇸🇰
+Statistical Office of the Slovak Republic https://github.com/SO-SR
+
+## 🇻🇺
+Vanuatu-National-Statistics-Office https://github.com/Vanuatu-National-Statistics-Office
 
 
 # Guidelines & General resources
