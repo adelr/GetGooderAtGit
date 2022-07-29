@@ -91,6 +91,30 @@ Statistical Office of the Slovak Republic https://github.com/SO-SR
 ## 🇻🇺
 Vanuatu-National-Statistics-Office https://github.com/Vanuatu-National-Statistics-Office
 
+# Multi-countries projects and resources
+
+## SDMX
+SDMX Technical Standards Working Group https://github.com/sdmx-twg and SDMX Statistical Working Group https://github.com/sdmx-swg 
+
+## ESSNet
+ESSnet on Implementing Shared Statistical Services https://github.com/I3S-ESSnet/
+
+Online Job Vacancies ESSnet Big Data https://github.com/OnlineJobVacanciesESSnetBigData
+
+Mobile Phone ESSnet Big Data https://github.com/MobilePhoneESSnetBigData 
+
+LOS ESSnet ESSnet on Linked Open Statistics https://github.com/LOS-ESSnet 
+
+essnetbigdata https://github.com/essnetbigdata 
+
+ESSnet WP7 - Population https://github.com/ONSBigData/ESSnet-WP7-UK-Case-Study
+
+## Conferences
+Conference on New Techniques and Technologies for Statistics https://github.com/NTTSConf
+NTTS21 Source code accompanying NTTS 2021 publications https://github.com/NTTSConf/NTTS21
+
+NTTS2021 large datasets apache parquet (COMTRADE) https://gitlab.com/DavidZenz/ntts2021-large-datasets-apache-parquet
+
 
 # Guidelines & General resources
 
@@ -115,25 +139,6 @@ Formation Git https://github.com/romain-warnan/formation-git
 Learner Guide: Accessing Data Science Campus Course Materials https://datasciencecampus.github.io/DSCA_course_materials_guide/   + other DSCA repositories in https://github.com/datasciencecampus 
 
 Reproducible Analytical Pipeline learning materials https://github.com/datasciencecampus/gov-uk-rap-materials 
-
-DMX Technical Standards Working Group https://github.com/sdmx-twg and SDMX Statistical Working Group https://github.com/sdmx-swg 
-
-Conference on New Techniques and Technologies for Statistics https://github.com/NTTSConf
-NTTS21 Source code accompanying NTTS 2021 publications https://github.com/NTTSConf/NTTS21
-
-NTTS2021 large datasets apache parquet (COMTRADE) https://gitlab.com/DavidZenz/ntts2021-large-datasets-apache-parquet
-
-ESSnet on Implementing Shared Statistical Services https://github.com/I3S-ESSnet/
-
-Online Job Vacancies ESSnet Big Data https://github.com/OnlineJobVacanciesESSnetBigData
-
-Mobile Phone ESSnet Big Data https://github.com/MobilePhoneESSnetBigData 
-
-LOS ESSnet ESSnet on Linked Open Statistics https://github.com/LOS-ESSnet 
-
-essnetbigdata https://github.com/essnetbigdata 
-
-ESSnet WP7 - Population https://github.com/ONSBigData/ESSnet-WP7-UK-Case-Study
 
 # Articles
 
