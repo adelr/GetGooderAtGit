@@ -42,8 +42,8 @@ Use this repository to practice with Git.
 
 ## Challenge 1
 
-Laurent's wiki page with links to GitHub repositories managed by National Statistical Offices.
-https://github.com/laurentlefort/data-landscape/wiki/Repositories
+Laurent's wiki page with links to GitHub repositories managed by National Statistical Offices [Challenge1 page in this repo](Challenge1.md)
+Or as a [wiki page](https://github.com/laurentlefort/data-landscape/wiki/Repositories)
 
 
 ## Anna's test
@@ -56,5 +56,5 @@ Did this work?
 
 ## Rajarshi's work
 
-test test
+hello world
 
