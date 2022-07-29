@@ -13,8 +13,12 @@ SSPLab https://github.com/SSP-Lab
 Franck Cotton INSEE https://github.com/FranckCo?tab=repositories and https://github.com/linked-statistics/xkos 
 
 ## :it:
-https://teamdigitale.governo.it/en/projects/daf.htm 
+ISTAT Methodology https://github.com/istat-methodology 
+
+https://github.com/italia/OntoPiA-UI for https://www.istat.it/en/methods-and-tools/ontologies
+
 https://github.com/italia/daf
+https://teamdigitale.governo.it/en/projects/daf.htm 
 https://www.bigpolicycanvas.eu/community/kb/italian-data-analytics-framework-daf
 
 
@@ -71,7 +75,8 @@ Methods Portfolio https://methods.officialstatistics.org/algorithms
 UNECE: https://github.com/UNECE/ 
 
 ## 🇵🇱
-Stats Poland - EU Hackathon https://statisticspoland.github.io/EU_BD_Hackathon/
+Stats Poland https://github.com/statisticspoland
+ECOICOP classification https://github.com/statisticspoland/ecoicop_classification
 
 ## 🇦🇹
 Unofficial Organization for Open Source Projects of Statistics Austria https://github.com/statistikat
@@ -115,6 +120,29 @@ NTTS21 Source code accompanying NTTS 2021 publications https://github.com/NTTSCo
 
 NTTS2021 large datasets apache parquet (COMTRADE) https://gitlab.com/DavidZenz/ntts2021-large-datasets-apache-parquet
 
+## EU Big Data Hackathon
+
+2021 challenge: "How to simulate and forecast international trade relations in a network at high product and time resolutions?"
+
+Sponsored by AWS https://aws.amazon.com/blogs/publicsector/using-big-data-help-governments-make-better-policy-decisions/
+
+
+ISTAT (winner 2021) https://github.com/istat-methodology/cosmopolitics (effects of pandemic in import and export - https://www.coinsconference.org/talks_pdf/Guardabascio_VBB.pdf )
+
+Statistics Poland (2nd prize 2021) https://github.com/statisticspoland/EU_Big_Data_Hackathon_2021
+
+
+Greek team participating in the Eurostat Big Data Hackathon of 2021 https://github.com/alpapado/eu_bd_hackathon_gr
+
+(2019) 
+
+Stats Poland - EU Hackathon https://statisticspoland.github.io/EU_BD_Hackathon/ Winner 2019 
+
+(2017) 
+
+UK https://github.com/ONSBigData/EU-hackathon
+
+Portugal https://github.com/jsollari/EUhackathon2017 
 
 # Guidelines & General resources
 
