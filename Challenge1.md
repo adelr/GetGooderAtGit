@@ -27,6 +27,7 @@ JDemetra: https://github.com/jdemetra
 Jacopo Grazzinin https://github.com/gjacopo
 
 INSEE France: https://github.com/INSEEfr 
+INSEE France: https://github.com/INSEELabfr 
 
 SSPLab https://github.com/SSP-Lab 
 Franck Cotton INSEE https://github.com/FranckCo?tab=repositories and https://github.com/linked-statistics/xkos 
