@@ -61,8 +61,8 @@ Create a resource containing information about different public GitHub initiativ
 + Are there guidelines for how GitHub is used by these organisations?  
 
 ## Our contribution:
-See [Laurent's wiki page](Challenge1.md) with links to GitHub repositories managed by National Statistical Offices
-([source](https://github.com/laurentlefort/data-landscape/wiki/Repositories)).
+See [Challenge1.md](Challenge1.md) with links to GitHub repositories managed by National Statistical Offices
+(source: [Laurent's wiki page](https://github.com/laurentlefort/data-landscape/wiki/Repositories)).
 
 
 
