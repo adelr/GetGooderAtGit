@@ -17,6 +17,7 @@ Formation Git https://github.com/romain-warnan/formation-git
 
 # Repositories
 
+## :eu:
 Eurostat: https://github.com/eurostat
 NLP4Stat https://github.com/eurostat/NLP4Stat
 
@@ -26,45 +27,56 @@ JDemetra: https://github.com/jdemetra
 
 Jacopo Grazzinin https://github.com/gjacopo
 
+## 🇫🇷
 INSEE France: https://github.com/INSEEfr 
 INSEE France: https://github.com/INSEELabfr 
 
 SSPLab https://github.com/SSP-Lab 
 Franck Cotton INSEE https://github.com/FranckCo?tab=repositories and https://github.com/linked-statistics/xkos 
 
+## :uk:
 ONS (UK): https://github.com/ONSdigital 
 ONS Visual https://github.com/ONSvisual
 ONS Big Data https://github.com/ONSBigData
 ONS Geo https://github.com/ONSgeo 
 
+## 🇨🇦
 Stats Canada: https://github.com/StatCan 
 Special projects Business data: https://github.com/CSBP-CPSE 
 Documentation for the Data Analytics as a Service Platform https://github.com/StatCan/daaas   and https://statcan.github.io/daaas/ 
 
+## 🇳🇴
 Stats Norway https://github.com/statisticsnorway
 Linked Data Store https://github.com/statisticsnorway/linked-data-store-documentation 
 Øyvind Langsrud Information Preserving Regression-based Tools for Statistical Disclosure Control https://github.com/olangsrud/RegSDC
 
+## 🇳🇿
 Stats NZ: https://github.com/StatisticsNZ
 
+## 🇫🇮
 Stats Finland: https://github.com/StatisticsFinland 
 
+## 🇧🇪
 Statistics Flanders statistiekvlaanderen  https://github.com/vsa-datascience 
 
+## 🇳🇱
 Statistics Netherlands: https://github.com/Statistics-Netherlands 
 Knowledge group on statistical computing https://github.com/SNStatComp 
 StatsNL awesome statistics software https://github.com/SNStatComp/awesome-official-statistics-software
 
+## 🇺🇸
 U.S. Census Bureau https://github.com/uscensusbureau
 xD (eXtreme Development?) GitHub repo of the  - Building cutting-edge data products for the public good https://github.com/XDgov
 https://github.com/XDgov/ML-NLP-Resource-List 
 
 Labor Dynamics Institute - Lars Vilhuber https://github.com/labordynamicsinstitute
 
+## 🇸🇪
 Statistics Sweden https://github.com/statisticssweden
 
 ISTAT SDMX Toolkit https://github.com/SDMXISTATTOOLKIT
 
+## 🇺🇳
 UN Global Platform https://github.com/UNGlobalPlatform and https://twitter.com/unbigdata
 Methods Portfolio https://methods.officialstatistics.org/algorithms
 
@@ -72,9 +84,8 @@ UNECE: https://github.com/UNECE/
 
 EU Hackathon https://statisticspoland.github.io/EU_BD_Hackathon/
 
-
+## 🇦🇹
 Unofficial Organization for Open Source Projects of Statistics Austria https://github.com/statistikat
-
 
 Funcamp R : https://docs.funcamp.sspcloud.fr/espace-formateur/principes_pedagogiques
 
