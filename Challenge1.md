@@ -2,15 +2,20 @@
 
 ## :eu:
 Eurostat: https://github.com/eurostat
+
+Fernando Reis https://github.com/reisfe
+
 NLP4Stat https://github.com/eurostat/NLP4Stat
 
 
 ## 🇫🇷 🍷 🧀 🐌
 INSEE France: https://github.com/INSEEfr 
-INSEE France: https://github.com/INSEELabfr 
+* INSEE Lab: https://github.com/InseeFrLab 
+* SSPLab https://github.com/SSP-Lab 
 
-SSPLab https://github.com/SSP-Lab 
-Franck Cotton INSEE https://github.com/FranckCo?tab=repositories and https://github.com/linked-statistics/xkos 
+Lino Galiana https://github.com/linogaliana
+
+Franck Cotton INSEE https://github.com/FranckCo and https://github.com/linked-statistics
 
 ## :it:
 ISTAT Methodology https://github.com/istat-methodology 
@@ -24,14 +29,26 @@ https://www.bigpolicycanvas.eu/community/kb/italian-data-analytics-framework-daf
 
 ## :uk:
 ONS (UK): https://github.com/ONSdigital 
-ONS Visual https://github.com/ONSvisual
-ONS Big Data https://github.com/ONSBigData
-ONS Geo https://github.com/ONSgeo 
+* Data Science Campus https://github.com/datasciencecampus
+* ONS Big Data https://github.com/ONSBigData
+* ONS Geo https://github.com/ONSgeo 
+* ONS Visual https://github.com/ONSvisual
 
 ### Ministry of Justice:
  + https://github.com/ministryofjustice/security-guidance 
  + https://github.com/ministryofjustice/cloud-platform 
  + https://github.com/ministryofjustice/cloud-platform/tree/main/architecture-decision-record 
+
+## 🇳🇱
+Statistics Netherlands: https://github.com/Statistics-Netherlands 
+
+Knowledge group on statistical computing https://github.com/SNStatComp 
+
+StatsNL awesome statistics software https://github.com/SNStatComp/awesome-official-statistics-software
+
+Mark van der Loo https://github.com/markvanderloo
+
+Martijn Tennekes https://github.com/mtennekes 
 
 ## 🇨🇦
 Stats Canada: https://github.com/StatCan 
@@ -52,11 +69,6 @@ Stats Finland: https://github.com/StatisticsFinland
 ## 🇧🇪
 Statistics Flanders statistiekvlaanderen  https://github.com/vsa-datascience 
 
-## 🇳🇱
-Statistics Netherlands: https://github.com/Statistics-Netherlands 
-Knowledge group on statistical computing https://github.com/SNStatComp 
-StatsNL awesome statistics software https://github.com/SNStatComp/awesome-official-statistics-software
-
 ## 🇺🇸
 U.S. Census Bureau https://github.com/uscensusbureau
 xD (eXtreme Development?) GitHub repo of the  - Building cutting-edge data products for the public good https://github.com/XDgov
@@ -67,6 +79,9 @@ Labor Dynamics Institute - Lars Vilhuber https://github.com/labordynamicsinstitu
 ## 🇸🇪
 Statistics Sweden https://github.com/statisticssweden
 
+## Spain
+
+David Salgado https://github.com/david-salgado
 
 ## 🇺🇳
 UN Global Platform https://github.com/UNGlobalPlatform and https://twitter.com/unbigdata
@@ -76,10 +91,15 @@ UNECE: https://github.com/UNECE/
 
 ## 🇵🇱
 Stats Poland https://github.com/statisticspoland
+
+Maciej Beręsewicz https://github.com/BERENZ
+
 ECOICOP classification https://github.com/statisticspoland/ecoicop_classification
 
 ## 🇦🇹
 Unofficial Organization for Open Source Projects of Statistics Austria https://github.com/statistikat
+
+Alexander Kowarik https://github.com/alexkowa
 
 ## 🇮🇪
 Central Statistic Office, Ireland https://github.com/CSOIreland
@@ -89,6 +109,9 @@ Columbia, Departamento Administrativo Nacional de Estadística (DANE) https://gi
 
 ## 🇱🇻
 Latvia, Central Statistical Bureau of Latvia https://github.com/CSBLatvia
+
+Survey weighting https://github.com/CSBLatvia/surveyweighting 
+Summer School on Survey Statistics 2021 https://osp.stat.gov.lt/services-portlet/pub-edition-file?id=38180
 
 ## 🇸🇰
 Statistical Office of the Slovak Republic https://github.com/SO-SR
@@ -102,17 +125,19 @@ Vanuatu-National-Statistics-Office https://github.com/Vanuatu-National-Statistic
 SDMX Technical Standards Working Group https://github.com/sdmx-twg and SDMX Statistical Working Group https://github.com/sdmx-swg 
 
 ## ESSNet
-ESSnet on Implementing Shared Statistical Services https://github.com/I3S-ESSnet/
 
-Online Job Vacancies ESSnet Big Data https://github.com/OnlineJobVacanciesESSnetBigData
+ESSnet Big Data II https://ec.europa.eu/eurostat/cros/content/github_en
+* WPB Online job vacancies https://github.com/OnlineJobVacanciesESSnetBigData/
+* WPC Enterprise characteristics https://github.com/EnterpriseCharacteristicsESSnetBigData
+* WPE Tracking ships https://github.com/AIS-data/
+* WPI Mobile networks data https://github.com/MobilePhoneESSnetBigData 
 
-Mobile Phone ESSnet Big Data https://github.com/MobilePhoneESSnetBigData 
+ESSnet Big Data I  https://github.com/essnetbigdata 
+* ESSnet WP7 - Population https://github.com/ONSBigData/ESSnet-WP7-UK-Case-Study
+
+ESSnet on Implementing Shared Statistical Services https://github.com/I3S-ESSnet/ 
 
 LOS ESSnet ESSnet on Linked Open Statistics https://github.com/LOS-ESSnet 
-
-essnetbigdata https://github.com/essnetbigdata 
-
-ESSnet WP7 - Population https://github.com/ONSBigData/ESSnet-WP7-UK-Case-Study
 
 ## Conferences
 Conference on New Techniques and Technologies for Statistics https://github.com/NTTSConf
@@ -130,7 +155,6 @@ Sponsored by AWS https://aws.amazon.com/blogs/publicsector/using-big-data-help-g
 ISTAT (winner 2021) https://github.com/istat-methodology/cosmopolitics (effects of pandemic in import and export - https://www.coinsconference.org/talks_pdf/Guardabascio_VBB.pdf )
 
 Statistics Poland (2nd prize 2021) https://github.com/statisticspoland/EU_Big_Data_Hackathon_2021
-
 
 Greek team participating in the Eurostat Big Data Hackathon of 2021 https://github.com/alpapado/eu_bd_hackathon_gr
 
