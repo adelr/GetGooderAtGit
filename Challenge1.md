@@ -6,7 +6,7 @@ https://the-turing-way.netlify.app/collaboration/github-novice.html or via https
 Gitting the most out of version control https://github.com/best-practice-and-impact/ons-github-post 
 Git Configuration (tips) https://github.com/best-practice-and-impact/ons-git-config
 
-best practices for Quality Assurance of Code for Analysis and Research https://best-practice-and-impact.github.io/qa-of-code-guidance/intro.html 
+Best practices for Quality Assurance of Code for Analysis and Research https://best-practice-and-impact.github.io/qa-of-code-guidance/intro.html 
 https://github.com/ministryofjustice?q=Analytical&type=&language= 
 
 Statistics Canada Version Control with Git for Analytics Professionals https://www.statcan.gc.ca/en/data-science/network/analytics-professionals 
@@ -23,9 +23,6 @@ NLP4Stat https://github.com/eurostat/NLP4Stat
 
 Statistical Information System Collaboration Community (Community website https://siscc.org/). https://gitlab.com/sis-cc and https://sis-cc.gitlab.io/dotstatsuite-documentation/
 
-JDemetra: https://github.com/jdemetra
-
-Jacopo Grazzinin https://github.com/gjacopo
 
 ## 🇫🇷
 INSEE France: https://github.com/INSEEfr 
