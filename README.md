@@ -38,14 +38,6 @@ Use this repository to practice with Git.
 ## Windows specific resources:
 + [Working with Git GUI](https://www.geeksforgeeks.org/working-on-git-for-gui/)
 
-# Resources for Challenges
-
-## Challenge 1
-
-Laurent's wiki page with links to GitHub repositories managed by National Statistical Offices [Challenge1 page in this repo](Challenge1.md)
-Or as a [wiki page](https://github.com/laurentlefort/data-landscape/wiki/Repositories)
-
-
 ## Anna's test
 
 Very important info......
@@ -57,4 +49,20 @@ Did this work?
 ## Rajarshi's work
 
 hello world
+
+# Challenge
+
+## :octocat: Theme 1 - What is GitHub?   
+There are different code repositories but what sets GitHub apart is its usage in the open source software development world i.e. the data wrangling R package [`dplyr`](https://github.com/tidyverse/dplyr) is hosted on GitHub. 
+
+Create a resource containing information about different public GitHub initiatives created by international statistical or machine learning research organisations. Present your repostiory to address the following questions:  
+
++ How are statistical or ML research organisations using public GitHub repositories?     
++ Are there guidelines for how GitHub is used by these organisations?  
+
+## Our contribution:
+See [Laurent's wiki page](Challenge1.md) with links to GitHub repositories managed by National Statistical Offices
+([source](https://github.com/laurentlefort/data-landscape/wiki/Repositories)).
+
+
 
