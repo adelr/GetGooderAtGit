@@ -34,7 +34,7 @@ ONS (UK): https://github.com/ONSdigital
 * ONS Geo https://github.com/ONSgeo 
 * ONS Visual https://github.com/ONSvisual
 
-### Ministry of Justice:
+#### Ministry of Justice:
  + https://github.com/ministryofjustice/security-guidance 
  + https://github.com/ministryofjustice/cloud-platform 
  + https://github.com/ministryofjustice/cloud-platform/tree/main/architecture-decision-record 
@@ -79,7 +79,7 @@ Labor Dynamics Institute - Lars Vilhuber https://github.com/labordynamicsinstitu
 ## 🇸🇪
 Statistics Sweden https://github.com/statisticssweden
 
-## Spain
+## 🇪🇸
 
 David Salgado https://github.com/david-salgado
 
